@@ -8365,7 +8365,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
             case 7:
               _context2.prev = 7;
               _context2.t0 = _context2["catch"](0);
-              console.log(_context2.t0.response);
+             // console.log(_context2.t0.response);
               (0, _alerts.showAlert)('error', 'Error logging out! Try again.');
   
             case 11:
